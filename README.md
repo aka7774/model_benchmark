@@ -12,8 +12,8 @@
 - https://github.com/aka7774/sd_infotexts
 - edit_txt フォルダに実行したいフォルダの中身のテキストファイルをコピーする
 - 「Infotexts」タブの「Generate」タブで「Model hash」「Model sha256」「VAE sha256」にチェックを入れて「Apply」
-- テストしたいモデルを任意に選択する
-- txt2imgのScriptで「Generate fro Infotexts」を選択してGenerate
+- 1111のドロップダウンでテストしたいモデルを任意に選択する
+- txt2imgのScriptで「Generate from Infotexts」を選択してGenerate
 - 一括生成された画像が output フォルダに出力される
 
 ## basic
