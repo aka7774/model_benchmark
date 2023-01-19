@@ -1,0 +1,83 @@
+0001	01	girl
+0001	02	masterpiece, best quality, 1girl
+0001	03	NP NAI
+0001	04	NP 7th
+0001	05	NP 3D
+0002	01	black hair
+0002	02	brown hair
+0002	03	red hair
+0002	04	green hair
+0002	05	blue hair
+0002	06	blonde hair
+0002	07	silver hair
+0002	08	white hair
+0003	01	loli
+0003	02	young
+0003	03	teenage
+0003	04	woman
+0003	05	lady
+0003	06	adult
+0003	07	mature female
+0003	08	old lady
+0004	01	flat chest
+0004	02	small breasts
+0004	03	medium breasts
+0004	04	large breasts
+0004	05	huge breasts
+0005	01	nude, naked
+0005	02	nsfw:1.3
+0005	03	nsfw:1.5
+0005	04	nsfw:1.8
+0006	01	(cum:1.3)
+0006	02	(cum:1.5)
+0006	03	(cum:1.8)
+0006	04	(cum on face, cum on hair:1.3)
+0006	05	(cum on face, cum on hair:1.5)
+0006	06	(cum on face, cum on hair:1.8)
+0007	01	boy
+0007	02	(boy:1.3)
+0007	03	(boy:1.5)
+0007	04	(boy:1.8)
+0007	05	man
+0007	06	old man
+0008	01	from side
+0008	02	from back
+0008	03	from above
+0008	04	from below
+0008	05	profile
+0008	06	portrait
+0008	07	full body
+0008	08	face
+0009	01	detailed
+0009	02	intricate
+0009	03	intricate, highly detailed
+0009	04	intricate, highly detailed, 8k, high resolution
+0010	01	outdoors
+0010	02	city
+0010	03	bakery
+0010	04	bookstore
+0010	05	cafe
+0010	06	classroom
+0010	07	church
+0010	08	palace
+0010	09	crowd
+0011	01	lolita fashion
+0011	02	gothic lolita
+0011	03	(gothic lolita:1.3)
+0011	04	(gothic lolita:1.5)
+0011	05	(gothic lolita:1.8)
+0011	06	(gothic lolita, laces, frills:1.3)
+0011	07	(gothic lolita, laces, frills:1.5)
+0011	08	(gothic lolita, laces, frills:1.8)
+0012	01	768x768
+0012	02	512x1024
+0012	03	512x1536
+0012	04	1024x512
+0012	05	1536x512
+0012	06	1024x1024
+0013	01	CFG Scale: 2
+0013	02	CFG Scale: 4
+0013	03	CFG Scale: 7
+0013	04	CFG Scale: 10
+0013	05	CFG Scale: 12
+0013	06	CFG Scale: 20
